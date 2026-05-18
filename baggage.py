@@ -7,4 +7,4 @@ def validate_baggage(baggage_weight, baggage_type, passenger_class, flight_type,
     if flight_type == "international" and not passport_valid:
         return False
         
-    return True
+    return True # Done Selesai Michael KT
